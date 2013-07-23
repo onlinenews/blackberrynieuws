@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+   <url>
+      <loc>http://www.blackberrynieuws.com/</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>hourly</changefreq>
+      <priority>1</priority>
+   </url>
+   <url>
+      <loc>blackberrynieuws/fotos-blackberry-a10-schermonderdelen-gespot.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-20</news:publication_date>
+         <news:title>Foto's BlackBerry A10 schermonderdelen gespot</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuwe-blackberry-lijkt-op-samsung-galaxy-s-iv.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-20</news:publication_date>
+         <news:title>Nieuwe Blackberry lijkt op Samsung Galaxy S IV</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/dure-tegenvaller-voor-goedkope-windows.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-19</news:publication_date>
+         <news:title>Dure tegenvaller voor goedkope Windows</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-10-stuurt-paswoord-van-e-mail-stiekem-naar-eigen-database.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-19</news:publication_date>
+         <news:title>BlackBerry 10 stuurt paswoord van e-mail stiekem naar eigen database</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-android-gebruikers-kunnen-eind-september-pingen.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-19</news:publication_date>
+         <news:title>BlackBerry  'Android-gebruikers kunnen eind september Pingen'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-10-stuurt-e-mail-wachtwoord-heimelijk-naar-eigen-database.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>'BlackBerry 10 stuurt e-mail-wachtwoord heimelijk naar eigen database'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/vandaag-in-de-pers---12-juli.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Vandaag in de pers - 12 juli</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-q5-nu-te-koop-in-nederland.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>BlackBerry Q5 nu te koop in Nederland</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-world-legt-focus-op-built-for-blackberry.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>BlackBerry World legt focus op 'Built for BlackBerry'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/ook-ios-versie-whatsapp-wordt-betaald-abonnement.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>Ook iOS-versie WhatsApp wordt betaald abonnement</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/whatsapp-voor-ios-gaat-89-cent-per-jaar-kosten.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>WhatsApp voor iOS gaat 89 cent per jaar kosten</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/complete-blackberry-a10-specificaties-lekken-uit.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-16</news:publication_date>
+         <news:title>Complete BlackBerry A10 specificaties lekken uit</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-prijsverlaging-z10-heel-normaal.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-16</news:publication_date>
+         <news:title>BlackBerry  prijsverlaging Z10 heel normaal</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/specificaties-blackberry-a10-phablet-lekken-uit.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-16</news:publication_date>
+         <news:title>'Specificaties BlackBerry A10 phablet lekken uit'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-a10-met-5-inch-scherm-duikt-op-video.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-16</news:publication_date>
+         <news:title>BlackBerry A10 met 5 inch-scherm duikt op (video)</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/microsoft-en-blackberry-gaan-prijzen-verlagen.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-15</news:publication_date>
+         <news:title>Microsoft en Blackberry gaan prijzen verlagen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuw-blackberry-vlaggenschip-in-aantocht-de-blackberry-a10.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-15</news:publication_date>
+         <news:title>Nieuw BlackBerry-vlaggenschip in aantocht  de BlackBerry A10</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuwe-blackberry-a10-render-toont-verwisselbare-cover.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-15</news:publication_date>
+         <news:title>Nieuwe BlackBerry A10 render toont verwisselbare cover</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/microsoft-en-blackberry-verlagen-prijzen-om-kopers-te-lokken.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-15</news:publication_date>
+         <news:title>Microsoft en Blackberry verlagen prijzen om kopers te lokken</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuwe-blackberry-lijkt-op-galaxy-s-iv.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-15</news:publication_date>
+         <news:title>Nieuwe Blackberry lijkt op Galaxy S IV</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuwe-blackberry-a10-krijgt-dual-core-processor.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-14</news:publication_date>
+         <news:title>Nieuwe Blackberry A10 krijgt dual core processor</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-a10-aristo-gespot.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-12</news:publication_date>
+         <news:title>BlackBerry A10 (Aristo) gespot</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/update-eerste-foto-van-blackberry-a10-phablet-lekt-uit.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-12</news:publication_date>
+         <news:title>Update  'Eerste foto van BlackBerry A10-phablet lekt uit'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/eerste-photo-van-blackberry-a10-phablet-lekt-uit.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-12</news:publication_date>
+         <news:title>'Eerste photo van BlackBerry A10-phablet lekt uit'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/update-eerste-photo-van-blackberry-a10-phablet-lekt-uit.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-12</news:publication_date>
+         <news:title>Update  'Eerste photo van BlackBerry A10-phablet lekt uit'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/foto-van-blackberry-a10-met-5-inch-scherm-online-gelekt.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-12</news:publication_date>
+         <news:title>Foto van BlackBerry A10 met 5 inch scherm online gelekt</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/marktaandeel-iphone-in-verenigde-staten-stijgt-ten-koste-van-blackberry.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-11</news:publication_date>
+         <news:title>Marktaandeel iPhone in Verenigde Staten stijgt ten koste van BlackBerry</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-martha-niet-te-kraken-1.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-11</news:publication_date>
+         <news:title>'Blackberry Martha niet te kraken'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-gwenette-martha-niet-gekraakt---derde-pro-forma-zitting-in-recht.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-11</news:publication_date>
+         <news:title>Blackberry Gwenette Martha niet gekraakt - Derde pro-forma zitting in rechtbank Amsterdam</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-komt-met-grotere-smartphone.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-11</news:publication_date>
+         <news:title>'BlackBerry komt met grotere smartphone'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-brengt-goedkoopste-bb10-smartphone-q5-in-nederland-uit.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-11</news:publication_date>
+         <news:title>BlackBerry brengt goedkoopste BB10-smartphone Q5 in Nederland uit</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/cees-booister-over-html5-alleen-is-niet-zaligmakend.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-10</news:publication_date>
+         <news:title>Cees Booister over  HTML5 alleen is niet zaligmakend</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/kobo-ereading-app-voor-blackberry-10-smartphones.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-10</news:publication_date>
+         <news:title>Kobo ereading app voor BlackBerry 10 smartphones</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-gaat-nog-meer-mensen-ontslaan.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-10</news:publication_date>
+         <news:title>'BlackBerry gaat nog meer mensen ontslaan'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/topman-blackberry-ommekeer-is-nog-pril.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-10</news:publication_date>
+         <news:title>Topman BlackBerry  ommekeer is nog pril</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuwe-ontslagen-bij-blackberry.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-10</news:publication_date>
+         <news:title>'Nieuwe ontslagen bij Blackberry'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuwe-ontslagronde-bij-blackberry.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-10</news:publication_date>
+         <news:title>Nieuwe ontslagronde bij Blackberry</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuwe-ontslagronde-bij-blackberry-1.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-10</news:publication_date>
+         <news:title>&acirc;ÄûNieuwe ontslagronde bij BlackBerry&acirc;Äù</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/nieuwe-ontslagronde-bij-blackberry-2.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-10</news:publication_date>
+         <news:title>'Nieuwe ontslagronde bij BlackBerry'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/blackberry-heeft-9720-in-het-verschiet.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-08</news:publication_date>
+         <news:title>BlackBerry heeft 9720 in het verschiet</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>blackberrynieuws/eerste-fotos-blackberry-curve-9720-duiken-op.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerryNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-08</news:publication_date>
+         <news:title>Eerste foto's BlackBerry Curve 9720 duiken op</news:title>
+      </news:news>
+   </url>
+</urlset>
