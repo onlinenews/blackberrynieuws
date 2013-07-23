@@ -11,7 +11,7 @@
 	 <meta name="keywords" content="Blackberry, smart phone, smartphone, smartphones, smart phones, ping, rim" />
 	 <meta name="author" content="BlackBerryNieuws" />
          <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-         <script src="js/scripts.js" type="text/javascript"></script>
+         <script src="http://www.iphonenieuws.com/js/scripts.js" type="text/javascript"></script>
          <script type="text/javascript">
             WebFontConfig = {
                google: { families: [ 'Magra:400' ] }};
@@ -24,28 +24,45 @@
                s.parentNode.insertBefore(wf, s);
             })();
          </script>
-         <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+         <link rel="stylesheet" href="http://www.iphonenieuws.com/css/stylesheet.css" type="text/css" />
       </head>
-      <body>
+      <body class="blackberrynieuws">
          <div id="topbar">
             <ul>
-               <li class="active">BlackBerryNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li><li><a href="http://www.androidnieuws.com">AndroidNieuws</a></li>               <li class="right">20 juli 2013</li>
+               <li class="active">BlackBerryNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li><li><a href="http://www.androidnieuws.com">AndroidNieuws</a></li><li><a href="http://www.nokianieuws.com">NokiaNieuws</a></li>               <li class="right"><script>var d=new Date();
+var month=new Array();
+month[0]="januari";
+month[1]="februari";
+month[2]="maart";
+month[3]="april";
+month[4]="mei";
+month[5]="juni";
+month[6]="juli";
+month[7]="augustus";
+month[8]="september";
+month[9]="oktober";
+month[10]="november";
+month[11]="december";
+var n = month[d.getMonth()];
+document.write(d.getDate()+" ");
+document.write(n+" ");
+document.write(d.getFullYear());
+</script></li>
             </ul>
          </div><div id="leaderboard"><script type="text/javascript"  src="http://views.m4n.nl/_v?zid=1088034"></script></div><h1 id="pagetitle"><a href="http://www.blackberrynieuws.com"><img src="images/title.jpg" alt="BlackBerryNieuws"/></a></h1>
          <div id="nav">
             <ul>
-               <li class="active">Laatste Nieuws</li>
-               <li><a href="#" class="coming_soon">Tech Specs</a></li>
-               <li><a href="#" class="coming_soon">Reviews</a></li>
+               <li class="active">Laatste Nieuws</li>               <li><a href="#" class="coming_soon">Tech Specs</a></li>               <li><a href="#" class="coming_soon">Reviews</a></li>
                <li><a href="#" class="coming_soon">Foto's</a></li>
                <li><a href="#" class="coming_soon">Verkooppunten</a></li>            </ul>
          </div><div id="container" class="shift">
-      <div id="article" class="articlebox">
-      <h1>'BlackBerry 10 stuurt e-mail-wachtwoord heimelijk naar eigen database'</h1>
-      <p><p>BlackBerry zou inloggegevens voor pop/imap-e-mail doorsturen naar een eigen server, alvorens verbinding met de mail-server te maken. Daarbij zouden niet alleen de inloggegevens worden onderschept, maar zouden deze ook onbeveiligd worden verstuurd.</p><p>Dat <a title="Knowledge With Fear -- BlackBery" href="http://frank.geekheim.de/?p=2379" rel="external">meldt</a> het Duitse blog Knowledge Brings Fear, die bij een test een ip-adres van BlackBerry in de logs aantrof bij het opzetten van een e-mailaccount via imap. De site stelt dat BlackBerry een server met ip-adres 68.171.232.33 in Canada heeft staan waarnaar de inloggegevens worden verstuurd. Pas daarna wordt door BlackBerry zelf verbinding gemaakt met de mailserver. De vondst werd <a title="Heise.de -- BlackBerry" href="http://www.heise.de/newsticker/meldung/BlackBerry-spaeht-Mail-Login-aus-1919718.html" rel="external">bevestigd</a> door het eveneens Duitse Heise.de.</p><p>Volgens het blog verstuurt BlackBerry de inloggegevens onversleuteld naar de mailserver, tenzij op de mailserver is ingesteld dat er gedwongen van ssl- of tls-versleuteling gebruikgemaakt moet worden. Daardoor kan de data eventueel onderschept worden door kwaadwillenden. </p><p>BlackBerry wilde tegenover Heise.de geen inhoudelijk commentaar geven over het onderscheppen van de inloggegevens. Daardoor blijft het speculeren over de precieze reden: mogelijk slaat BlackBerry de gegevens op zodat geheime diensten hiervan gebruik kunnen maken. In verscheidene landen moest BlackBerry overigens al inloggegevens van gebruikers <a title="'RIM geeft Saudische overheid inloggegevens BlackBerry-gebruikers'" href="http://tweakers.net/nieuws/69080/rim-geeft-saudische-overheid-inloggegevens-blackberry-gebruikers.html">overhandigen</a>, waaronder in Saudi Arabië.</p><p><strong>Update 22:02 uur:</strong> Heise.de heeft een update geplaatst waarin wordt uitgelegd hoe het versturen van inloggegevens naar de servers van BlackBerry voorkomen kan worden. Wanneer er bij het instellen van het e-mailaccount voor de optie 'geavanceerd' wordt gekozen blijken er geen gegevens verstuurd te worden. Wanneer de gebruiker niet voor deze handmatige optie kiest gebeurt dit dus wel.</p>&#13;
-	</p>
-      <p class="source">Bron: <a href="http://tweakers.net/nieuws/90313/blackberry-10-stuurt-e-mail-wachtwoord-heimelijk-naar-eigen-database.html">tweakers.net</a>.</p>
-          <div id="disqus_thread"></div>
+      <div id="article" class="articlebox" itemscope itemtype="http://schema.org/NewsArticle">
+      <h1 itemprop="headline">'BlackBerry 10 stuurt e-mail-wachtwoord heimelijk naar eigen database'</h1>
+      <span class="date"><time datetime="2013-07-18T18:24" itemprop="dateCreated datePublished"><span class="date">18 juli om 18:24</span></time></span>
+      <div itemprop="articleBody text"><p>BlackBerry zou inloggegevens voor pop/imap-e-mail doorsturen naar een eigen server, alvorens verbinding met de mail-server te maken. Daarbij zouden niet alleen de inloggegevens worden onderschept, maar zouden deze ook onbeveiligd worden verstuurd.</p><p>Dat <a title="Knowledge With Fear -- BlackBery" href="http://frank.geekheim.de/?p=2379" rel="external">meldt</a> het Duitse blog Knowledge Brings Fear, die bij een test een ip-adres van BlackBerry in de logs aantrof bij het opzetten van een e-mailaccount via imap. De site stelt dat BlackBerry een server met ip-adres 68.171.232.33 in Canada heeft staan waarnaar de inloggegevens worden verstuurd. Pas daarna wordt door BlackBerry zelf verbinding gemaakt met de mailserver. De vondst werd <a title="Heise.de -- BlackBerry" href="http://www.heise.de/newsticker/meldung/BlackBerry-spaeht-Mail-Login-aus-1919718.html" rel="external">bevestigd</a> door het eveneens Duitse Heise.de.</p><p>Volgens het blog verstuurt BlackBerry de inloggegevens onversleuteld naar de mailserver, tenzij op de mailserver is ingesteld dat er gedwongen van ssl- of tls-versleuteling gebruikgemaakt moet worden. Daardoor kan de data eventueel onderschept worden door kwaadwillenden. </p><p>BlackBerry wilde tegenover Heise.de geen inhoudelijk commentaar geven over het onderscheppen van de inloggegevens. Daardoor blijft het speculeren over de precieze reden: mogelijk slaat BlackBerry de gegevens op zodat geheime diensten hiervan gebruik kunnen maken. In verscheidene landen moest BlackBerry overigens al inloggegevens van gebruikers <a title="'RIM geeft Saudische overheid inloggegevens BlackBerry-gebruikers'" href="http://tweakers.net/nieuws/69080/rim-geeft-saudische-overheid-inloggegevens-blackberry-gebruikers.html">overhandigen</a>, waaronder in Saudi Arabië.</p><p><strong>Update 22:02 uur:</strong> Heise.de heeft een update geplaatst waarin wordt uitgelegd hoe het versturen van inloggegevens naar de servers van BlackBerry voorkomen kan worden. Wanneer er bij het instellen van het e-mailaccount voor de optie 'geavanceerd' wordt gekozen blijken er geen gegevens verstuurd te worden. Wanneer de gebruiker niet voor deze handmatige optie kiest gebeurt dit dus wel.</p>&#13;
+	</div>
+      <p class="source">Via: <a href="http://tweakers.net/nieuws/90313/blackberry-10-stuurt-e-mail-wachtwoord-heimelijk-naar-eigen-database.html"></a>.</p>
+          <div id="disqus_thread" itemscope itemtype="http://schema.org/UserComments"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'blackberrynieuws'; // required: replace example with your forum shortname

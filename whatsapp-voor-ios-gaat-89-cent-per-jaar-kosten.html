@@ -11,7 +11,7 @@
 	 <meta name="keywords" content="Blackberry, smart phone, smartphone, smartphones, smart phones, ping, rim" />
 	 <meta name="author" content="BlackBerryNieuws" />
          <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-         <script src="js/scripts.js" type="text/javascript"></script>
+         <script src="http://www.iphonenieuws.com/js/scripts.js" type="text/javascript"></script>
          <script type="text/javascript">
             WebFontConfig = {
                google: { families: [ 'Magra:400' ] }};
@@ -24,34 +24,51 @@
                s.parentNode.insertBefore(wf, s);
             })();
          </script>
-         <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+         <link rel="stylesheet" href="http://www.iphonenieuws.com/css/stylesheet.css" type="text/css" />
       </head>
-      <body>
+      <body class="blackberrynieuws">
          <div id="topbar">
             <ul>
-               <li class="active">BlackBerryNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li><li><a href="http://www.androidnieuws.com">AndroidNieuws</a></li>               <li class="right">20 juli 2013</li>
+               <li class="active">BlackBerryNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li><li><a href="http://www.androidnieuws.com">AndroidNieuws</a></li><li><a href="http://www.nokianieuws.com">NokiaNieuws</a></li>               <li class="right"><script>var d=new Date();
+var month=new Array();
+month[0]="januari";
+month[1]="februari";
+month[2]="maart";
+month[3]="april";
+month[4]="mei";
+month[5]="juni";
+month[6]="juli";
+month[7]="augustus";
+month[8]="september";
+month[9]="oktober";
+month[10]="november";
+month[11]="december";
+var n = month[d.getMonth()];
+document.write(d.getDate()+" ");
+document.write(n+" ");
+document.write(d.getFullYear());
+</script></li>
             </ul>
          </div><div id="leaderboard"><script type="text/javascript"  src="http://views.m4n.nl/_v?zid=1088034"></script></div><h1 id="pagetitle"><a href="http://www.blackberrynieuws.com"><img src="images/title.jpg" alt="BlackBerryNieuws"/></a></h1>
          <div id="nav">
             <ul>
-               <li class="active">Laatste Nieuws</li>
-               <li><a href="#" class="coming_soon">Tech Specs</a></li>
-               <li><a href="#" class="coming_soon">Reviews</a></li>
+               <li class="active">Laatste Nieuws</li>               <li><a href="#" class="coming_soon">Tech Specs</a></li>               <li><a href="#" class="coming_soon">Reviews</a></li>
                <li><a href="#" class="coming_soon">Foto's</a></li>
                <li><a href="#" class="coming_soon">Verkooppunten</a></li>            </ul>
          </div><div id="container" class="shift">
-      <div id="article" class="articlebox">
-      <h1>WhatsApp voor iOS gaat 89 cent per jaar kosten</h1>
-      <p>&#13;
+      <div id="article" class="articlebox" itemscope itemtype="http://schema.org/NewsArticle">
+      <h1 itemprop="headline">WhatsApp voor iOS gaat 89 cent per jaar kosten</h1>
+      <span class="date"><time datetime="2013-07-17T11:26" itemprop="dateCreated datePublished"><span class="date">17 juli om 11:26</span></time></span>
+      <div itemprop="articleBody text">&#13;
               <p>De makers van WhatsApp hebben het verdienmodel voor hun iPhone-app aangepast. Zo is de software vanaf heden gratis te downloaden en betalen gebruikers jaarlijks 0.89 eurocent. Dit is al het geval bij andere besturingssystemen. De app kan betaald worden via een creditcard of iTunes-giftcard.</p>
 <p>De kosten gelden alleen voor nieuwe gebruikers die de app vanaf vandaag downloaden. Mensen die nu al gebruikmaken van de app en dus al 89 cent bij aanschaf hebben betaald, hoeven niet jaarlijks af te rekenen.</p>
 <p><img alt="" src="//res.gsminfo.nl/images/yz6rvnjcovt836g56ey7ztd9zb/blog-width/whatsapp-feature.jpg"/></p>
 <p>In <a href="http://www.gsminfo.nl/blog/achtergrond/4946/betalen-voor-whatsapp-hoe-werkt-het">maart</a> werd al bekend dat WhatsApp betaalde abonnementen ging introduceren. Dit is ook het gevasl bij Android. Alleen tot op heden lijken de meeste gebruikers geluk te hebben. Ze hebben een levenslang abonnement of kunnen de betaalmelding omzeilen. Het is echter nog maar de vraag hoelang dit gaat duren. Ook bij BlackBerry en Windows Phone moet na een jaar 89 eurocent worden neergeteld.</p>
 <p>Bron: <a href="http://www.forbes.com/sites/markrogowsky/2013/07/16/chat-sensation-whatsapp-is-now-free/" target="_blank">Forbes</a></p>
      &#13;
-     </p>
-      <p class="source">Bron: <a href="http://www.gsminfo.nl/blog/nieuws/5328/whatsapp-voor-ios-gaat-89-cent-per-jaar-kosten">gsminfo.nl</a>.</p>
-          <div id="disqus_thread"></div>
+     </div>
+      <p class="source">Via: <a href="http://www.gsminfo.nl/blog/nieuws/5328/whatsapp-voor-ios-gaat-89-cent-per-jaar-kosten"></a>.</p>
+          <div id="disqus_thread" itemscope itemtype="http://schema.org/UserComments"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'blackberrynieuws'; // required: replace example with your forum shortname

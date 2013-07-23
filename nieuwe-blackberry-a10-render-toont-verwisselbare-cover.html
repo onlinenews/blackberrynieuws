@@ -11,7 +11,7 @@
 	 <meta name="keywords" content="Blackberry, smart phone, smartphone, smartphones, smart phones, ping, rim" />
 	 <meta name="author" content="BlackBerryNieuws" />
          <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-         <script src="js/scripts.js" type="text/javascript"></script>
+         <script src="http://www.iphonenieuws.com/js/scripts.js" type="text/javascript"></script>
          <script type="text/javascript">
             WebFontConfig = {
                google: { families: [ 'Magra:400' ] }};
@@ -24,25 +24,42 @@
                s.parentNode.insertBefore(wf, s);
             })();
          </script>
-         <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+         <link rel="stylesheet" href="http://www.iphonenieuws.com/css/stylesheet.css" type="text/css" />
       </head>
-      <body>
+      <body class="blackberrynieuws">
          <div id="topbar">
             <ul>
-               <li class="active">BlackBerryNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li><li><a href="http://www.androidnieuws.com">AndroidNieuws</a></li>               <li class="right">20 juli 2013</li>
+               <li class="active">BlackBerryNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li><li><a href="http://www.androidnieuws.com">AndroidNieuws</a></li><li><a href="http://www.nokianieuws.com">NokiaNieuws</a></li>               <li class="right"><script>var d=new Date();
+var month=new Array();
+month[0]="januari";
+month[1]="februari";
+month[2]="maart";
+month[3]="april";
+month[4]="mei";
+month[5]="juni";
+month[6]="juli";
+month[7]="augustus";
+month[8]="september";
+month[9]="oktober";
+month[10]="november";
+month[11]="december";
+var n = month[d.getMonth()];
+document.write(d.getDate()+" ");
+document.write(n+" ");
+document.write(d.getFullYear());
+</script></li>
             </ul>
          </div><div id="leaderboard"><script type="text/javascript"  src="http://views.m4n.nl/_v?zid=1088034"></script></div><h1 id="pagetitle"><a href="http://www.blackberrynieuws.com"><img src="images/title.jpg" alt="BlackBerryNieuws"/></a></h1>
          <div id="nav">
             <ul>
-               <li class="active">Laatste Nieuws</li>
-               <li><a href="#" class="coming_soon">Tech Specs</a></li>
-               <li><a href="#" class="coming_soon">Reviews</a></li>
+               <li class="active">Laatste Nieuws</li>               <li><a href="#" class="coming_soon">Tech Specs</a></li>               <li><a href="#" class="coming_soon">Reviews</a></li>
                <li><a href="#" class="coming_soon">Foto's</a></li>
                <li><a href="#" class="coming_soon">Verkooppunten</a></li>            </ul>
          </div><div id="container" class="shift">
-      <div id="article" class="articlebox">
-      <h1>Nieuwe BlackBerry A10 render toont verwisselbare cover</h1>
-      <p>&#13;
+      <div id="article" class="articlebox" itemscope itemtype="http://schema.org/NewsArticle">
+      <h1 itemprop="headline">Nieuwe BlackBerry A10 render toont verwisselbare cover</h1>
+      <span class="date"><time datetime="2013-07-15T13:05" itemprop="dateCreated datePublished"><span class="date">15 juli om 13:05</span></time></span>
+      <div itemprop="articleBody text">&#13;
               <p>Via <a href="http://t.crackberry.com/blackberry-a10-renders-show-removable-back-sideloading-sim" target="_blank">CrackBerry</a> zijn nieuwe afbeeldingen uitgelekt van de <a href="http://www.gsminfo.nl/blog/nieuws/5316/foto-van-blackberry-a10-met-5-inch-scherm-online-gelekt">BlackBerry A10</a>. De grootste verrassing op de uitgelekte renders is de locatie van de sim-kaart. Bij de <a href="/mobiele-telefoons/blackberry/z10">BlackBerry Z10</a> en de <a href="/mobiele-telefoons/blackberry/q10">BlackBerry Q10</a> zat de sim-kaart nog in de achterkant gestopt, achter de batterijcover, maar bij de A10 zit de sim-kaart in de zijkant. Dat maakt het een stuk makkelijker om de sim-kaart even te verwisselen.</p>
 <p><img alt="BlackBerry A10 zijkant" src="//res.gsminfo.nl/images/ezfaky9psgvj7zgu59cdcdfywh/blog-width/a10-help.jpg"/></p>
 <h3>Verwijderbare achterkant</h3>
@@ -51,9 +68,9 @@
 <p>De BlackBerry A10 zou de eerste phablet worden van de Canadese fabrikant, en is voorzien van een 5 inch scherm met een resolutie van 720x1280. Volgens verschillende geruchten zou de A10 dit najaar verschijnen als het nieuwe vlaggenschip voor BlackBerry 10. Net als alle BlackBerry 10-toestellen zou de A10 voorzien zijn van een dual-core processor en 2GB werkgeheugen. Wanneer de BlackBerry A10 precies verschijnt of onthuld zal worden is nog onbekend. Dit weekend dook er nogMet  een video op die het toestel in actie toont.</p>
 <p/>
      &#13;
-     </p>
-      <p class="source">Bron: <a href="http://www.gsminfo.nl/blog/nieuws/5323/nieuwe-blackberry-a10-render-toont-verwisselbare-cover">gsminfo.nl</a>.</p>
-          <div id="disqus_thread"></div>
+     </div>
+      <p class="source">Via: <a href="http://www.gsminfo.nl/blog/nieuws/5323/nieuwe-blackberry-a10-render-toont-verwisselbare-cover"></a>.</p>
+          <div id="disqus_thread" itemscope itemtype="http://schema.org/UserComments"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'blackberrynieuws'; // required: replace example with your forum shortname
