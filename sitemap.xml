@@ -3,16 +3,129 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
    <url>
       <loc>http://www.blackberrynieuws.com/</loc>
-      <lastmod>2013-07-24</lastmod>
+      <lastmod>2013-07-25</lastmod>
       <changefreq>hourly</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>http://www.blackberrynieuws.com/fotos-blackberry-a10-schermonderdelen-gespot.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.blackberrynieuws.com/nieuwe-fotos-en-video-blackberry-a10-opgedoken.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Nieuwe foto's en video BlackBerry A10 opgedoken</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.blackberrynieuws.com/blackberry-curve-9720-lekt-uit-op-nieuwe-beelden.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerry Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>BlackBerry Curve 9720 lekt uit op nieuwe beelden</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.blackberrynieuws.com/blackberry-a10-phablet-laat-zijn-gezicht-zien-in-fotos-en-videos.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerry Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>BlackBerry A10 phablet laat zijn gezicht zien in foto's en video's</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.blackberrynieuws.com/fotos-en-video-van-nieuw-blackberry-vlaggenschip-a10-verschijnen-online.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerry Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Foto's en video van nieuw BlackBerry-vlaggenschip A10 verschijnen online</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.blackberrynieuws.com/de-nieuwe-blackberry-z10-amp-q10-adv.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerry Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>De nieuwe BlackBerry Z10 &amp; Q10 [Adv]</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.blackberrynieuws.com/reizen-naar-bangkok-en-thailand-wat-moet-je-weten.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerry Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Reizen naar Bangkok en Thailand, wat moet je weten?</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.blackberrynieuws.com/blackberry-kondigt-ondersteuning-voor-bluetooth-smart-aan.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerry Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>BlackBerry kondigt ondersteuning voor bluetooth smart aan</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.blackberrynieuws.com/gsminfonl-lanceert-eigen-blackberry-app.html</loc>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerry Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-22</news:publication_date>
+         <news:title>GSMinfo.nl lanceert eigen BlackBerry app</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.blackberrynieuws.com/fotos-blackberry-a10-schermonderdelen-gespot.html</loc>
+      <lastmod>2013-07-20</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -22,10 +135,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuwe-blackberry-lijkt-op-samsung-galaxy-s-iv.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-20</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -35,10 +149,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/dure-tegenvaller-voor-goedkope-windows.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -48,10 +163,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-10-stuurt-paswoord-van-e-mail-stiekem-naar-eigen-database.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -61,10 +177,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-android-gebruikers-kunnen-eind-september-pingen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -74,10 +191,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-10-stuurt-e-mail-wachtwoord-heimelijk-naar-eigen-database.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -87,10 +205,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/vandaag-in-de-pers---12-juli.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -100,10 +219,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-q5-nu-te-koop-in-nederland.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -113,10 +233,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-world-legt-focus-op-built-for-blackberry.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -126,10 +247,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/ook-ios-versie-whatsapp-wordt-betaald-abonnement.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -139,10 +261,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/whatsapp-voor-ios-gaat-89-cent-per-jaar-kosten.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -152,10 +275,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/complete-blackberry-a10-specificaties-lekken-uit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -165,10 +289,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-prijsverlaging-z10-heel-normaal.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -178,10 +303,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/specificaties-blackberry-a10-phablet-lekken-uit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -191,10 +317,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-a10-met-5-inch-scherm-duikt-op-video.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -204,10 +331,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/microsoft-en-blackberry-gaan-prijzen-verlagen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -217,10 +345,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuw-blackberry-vlaggenschip-in-aantocht-de-blackberry-a10.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -230,10 +359,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuwe-blackberry-a10-render-toont-verwisselbare-cover.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -243,10 +373,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/microsoft-en-blackberry-verlagen-prijzen-om-kopers-te-lokken.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -256,10 +387,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuwe-blackberry-lijkt-op-galaxy-s-iv.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -269,10 +401,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuwe-blackberry-a10-krijgt-dual-core-processor.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-14</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -282,10 +415,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-a10-aristo-gespot.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -295,10 +429,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/update-eerste-foto-van-blackberry-a10-phablet-lekt-uit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -308,10 +443,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/eerste-photo-van-blackberry-a10-phablet-lekt-uit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -321,10 +457,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/update-eerste-photo-van-blackberry-a10-phablet-lekt-uit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -334,10 +471,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/foto-van-blackberry-a10-met-5-inch-scherm-online-gelekt.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -347,10 +485,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/marktaandeel-iphone-in-verenigde-staten-stijgt-ten-koste-van-blackberry.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-11</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -360,10 +499,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-martha-niet-te-kraken-1.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-11</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -373,10 +513,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-gwenette-martha-niet-gekraakt---derde-pro-forma-zitting-in-recht.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-11</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -386,10 +527,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-komt-met-grotere-smartphone.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-11</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -399,10 +541,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-brengt-goedkoopste-bb10-smartphone-q5-in-nederland-uit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-11</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -412,10 +555,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/cees-booister-over-html5-alleen-is-niet-zaligmakend.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-10</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -425,10 +569,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/kobo-ereading-app-voor-blackberry-10-smartphones.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-10</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -438,10 +583,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-gaat-nog-meer-mensen-ontslaan.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-10</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -451,10 +597,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/topman-blackberry-ommekeer-is-nog-pril.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-10</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -464,10 +611,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuwe-ontslagen-bij-blackberry.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-10</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -477,10 +625,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuwe-ontslagronde-bij-blackberry.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-10</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -490,10 +639,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuwe-ontslagronde-bij-blackberry-1.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-10</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -503,10 +653,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/nieuwe-ontslagronde-bij-blackberry-2.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-10</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -516,10 +667,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/blackberry-heeft-9720-in-het-verschiet.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-08</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -529,10 +681,11 @@
    </url>
    <url>
       <loc>http://www.blackberrynieuws.com/eerste-fotos-blackberry-curve-9720-duiken-op.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-08</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>BlackBerryNieuws</news:name>
+            <news:name>BlackBerry Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
