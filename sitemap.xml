@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/blackberry-denkt-na-over-verkoop-bedrijf.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-09</news:publication_date>
+   <news:title>'BlackBerry denkt na over verkoop bedrijf'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/blackberry-denkt-na-over-verkoop-bedrijf-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-09</news:publication_date>
+   <news:title>'BlackBerry denkt na over verkoop bedrijf'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/gerucht-blackberry-overweegt-verkoop-om-financile-problemen-op-te-lossen.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
