@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.blackberrynieuws.com/</loc>
-<lastmod>2013-08-09</lastmod>
+<lastmod>2013-08-11</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/mogelijke-privatisering-op-komst-bij-blackberry.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-11</news:publication_date>
+   <news:title>Mogelijke privatisering op komst bij BlackBerry</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.blackberrynieuws.com/aandeel-blackberry-stijgt-op-geruchten-over-verkoop.html</loc>
