@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/40-procent-van-banen-bij-blackberry-op-de-tocht.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-18</news:publication_date>
+   <news:title>'40 procent van banen bij BlackBerry op de tocht'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/blackberry-messenger-voor-android-en-ios-vanaf-21-september.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
