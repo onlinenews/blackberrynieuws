@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/massaal-ontslag-bij-blackberry.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-20</news:publication_date>
+   <news:title>Massaal ontslag bij BlackBerry</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/blackberry-maakt-1-miljard-dollar-verlies-ontslaat-4500-man.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
