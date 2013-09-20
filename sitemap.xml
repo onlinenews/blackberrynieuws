@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/blackberry-schrapt-40-van-de-banen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-20</news:publication_date>
+   <news:title>BlackBerry schrapt 40% van de banen</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/blackberry-stopt-met-consumentenproducten.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
