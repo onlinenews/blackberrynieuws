@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/blackberry-stopt-met-consumentenproducten.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-20</news:publication_date>
+   <news:title>Blackberry stopt met consumentenproducten</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/blackberry-ontslaat-40-procent-van-het-personeel-na-enorm-verlies.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-20</news:publication_date>
+   <news:title>Blackberry ontslaat 40 procent van het personeel na enorm verlies</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/massaal-ontslag-bij-blackberry.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -47,6 +75,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-09-20</news:publication_date>
    <news:title>Grote reorganisatie bij Blackberry</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/blackberry-schrapt-4500-van-de-12000-banen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-20</news:publication_date>
+   <news:title>Blackberry schrapt 4.500 van de 12.000 banen</news:title>
 </news:news>
 </url>
 <url>
