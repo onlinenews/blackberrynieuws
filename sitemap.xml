@@ -8,6 +8,62 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/blackberry-schrijft-stevig-af-op-nieuw-toestel-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-27</news:publication_date>
+   <news:title>BlackBerry schrijft stevig af op nieuw toestel</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/durk-is-kwaad-over-falende-topmannen-die-cashen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-27</news:publication_date>
+   <news:title>Durk is kwaad over falende topmannen die cashen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/blackberry-draait-verlies-van-bijna-1-miljard-dollar.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-27</news:publication_date>
+   <news:title>BlackBerry draait verlies van bijna 1 miljard dollar</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/bijna-1-miljard-dollar-verlies-voor-blackberry.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-27</news:publication_date>
+   <news:title>Bijna 1 miljard dollar verlies voor Blackberry</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/bijna-1-miljard-dollar-verlies-bij-blackberry-2.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -61,6 +117,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-09-27</news:publication_date>
    <news:title>Blackberry schrijft stevig af op nieuw toestel</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/bijna-miljard-dollar-verlies-voor-blackberry.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-27</news:publication_date>
+   <news:title>Bijna miljard dollar verlies voor BlackBerry</news:title>
 </news:news>
 </url>
 <url>
