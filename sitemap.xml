@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.blackberrynieuws.com/</loc>
-<lastmod>2013-10-26</lastmod>
+<lastmod>2013-10-27</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/app-gemist-tweetbot-3-for-twitter-blackberry-messenger-iwork-en-ilife-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-27</news:publication_date>
+   <news:title>App Gemist: Tweetbot 3 for Twitter, Blackberry Messenger, iWork en iLife</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.blackberrynieuws.com/sap-niet-genteresseerd-in-blackberry-3.html</loc>
