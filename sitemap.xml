@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/blackberry-keldert-nu-overname-stokt.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-04</news:publication_date>
+   <news:title>Blackberry keldert nu overname stokt</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/blackberry-krijgt-1-miljard-van-fairfax.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-04</news:publication_date>
+   <news:title>Blackberry krijgt $1 miljard van Fairfax</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/qualcomm-in-de-race-voor-blackberry.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
