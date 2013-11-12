@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/puinruimer-blackberry-strijkt-88-miljoen-dollar-op.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-11</news:publication_date>
+   <news:title>Puinruimer BlackBerry strijkt 88 miljoen dollar op</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/blackberry-overlegt-met-google-over-play-store-op-bb10.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-11-11</news:publication_date>
    <news:title>'BlackBerry overlegt met Google over Play Store op BB10'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/uitgelekte-fotos-tonen-google-play-op-blackberry.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-11</news:publication_date>
+   <news:title>‘Uitgelekte foto’s tonen Google Play op BlackBerry’</news:title>
 </news:news>
 </url>
 <url>
