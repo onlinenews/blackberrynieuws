@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.blackberrynieuws.com/blackberry-bbm-moet-concurrent-whatsapp-worden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-27</news:publication_date>
+   <news:title>'BlackBerry BBM moet concurrent Whatsapp worden'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.blackberrynieuws.com/blackberry-schrapt-cmo-functie.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>BlackBerry Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-27</news:publication_date>
+   <news:title>BlackBerry schrapt CMO-functie</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.blackberrynieuws.com/blackberry-messenger-aims-for-more-devices-in-new-deal.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
